@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Dalinda ALOUI, and I'm a web Developper at Enedis.
+My name is Dalinda ALOUI, and I'm a web Developper at RAJA.
 
 ![LG's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dalinda28&show_icons=true)
 
