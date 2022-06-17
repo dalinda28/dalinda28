@@ -2,8 +2,7 @@
                                                           Hi, I'm Dalinda! 👋
                                               🔥 I'm a Full Stack Developper at RAJA.
                                                 📧 Gmail: aloui.dalinda28@gmail.com
-                                                 🎨 Portfolio: 
-                                        💼 LinkedIn: https://www.linkedin.com/in/dalinda-aloui/
+                                        💼 LinkedIn: <a href="https://www.linkedin.com/in/dalinda-aloui/" >tes</a>
 
 <!--## I'm currently working on 🔭-->
 
