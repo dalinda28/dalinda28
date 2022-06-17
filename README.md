@@ -2,8 +2,8 @@
                                     Hi, I'm Dalinda! 👋
                         🔥 I'm a Full Stack Developper at RAJA.
                      ✨ Favorite Tech: JavaScript, VueJS, Laravel...
-            📧 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](aloui.dalinda28@gmail.com)              🎨 Portfolio: 
-        💼 LinkedIn: [![Linkedin Badge](https://img.shields.io/badge/dalinda-follow%20on%20linkedin-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/dalinda-aloui/)
+📧 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](aloui.dalinda28@gmail.com)              🎨 Portfolio: 
+💼 LinkedIn: [![Linkedin Badge](https://img.shields.io/badge/dalinda-follow%20on%20linkedin-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/dalinda-aloui/)
 
 <!--## I'm currently working on 🔭-->
 
