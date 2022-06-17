@@ -3,8 +3,8 @@
                                               🔥 I'm a Full Stack Developper at RAJA.
                                               
                                               
-📧 Gmail:<p href="mailto:aloui.dalinda28@gmail.com" >aloui.dalinda28@gmail.com</p> <br>
-💼 LinkedIn:<a href="https://www.linkedin.com/in/dalinda-aloui/" >www.linkedin.com/in/dalinda-aloui</a>
+📧 Gmail: <a href="mailto:aloui.dalinda28@gmail.com" >aloui.dalinda28@gmail.com</a> <br>
+💼 LinkedIn: <a href="https://www.linkedin.com/in/dalinda-aloui/" >www.linkedin.com/in/dalinda-aloui</a>
 
 <!--## I'm currently working on 🔭-->
 
