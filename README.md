@@ -1,8 +1,10 @@
 
                                                           Hi, I'm Dalinda! 👋
                                               🔥 I'm a Full Stack Developper at RAJA.
-                                                📧 Gmail: aloui.dalinda28@gmail.com
-                                        💼 LinkedIn: <a href="https://www.linkedin.com/in/dalinda-aloui/" >tes</a>
+                                              
+                                              
+📧 Gmail: <p href="mailto:aloui.dalinda28@gmail.com" >aloui.dalinda28@gmail.com</a> 
+💼 LinkedIn: <a href="https://www.linkedin.com/in/dalinda-aloui/" >www.linkedin.com/in/dalinda-aloui</a>
 
 <!--## I'm currently working on 🔭-->
 
