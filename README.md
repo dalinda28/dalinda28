@@ -1,6 +1,7 @@
 
                                                           Hi, I'm Dalinda! 👋
-                                              🔥 I'm a Full Stack Developer.
+                                                   🔥 I'm a Full Stack Developer.
+<a href="https://dalinda28.github.io/portfolio_Dalinda/" >Dalinda ALOUI Portfolio</a>
                                               
 ![visitors](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdalinda28&count_bg=%23D57B80&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=visitor+count&edge_flat=false)
                                              
