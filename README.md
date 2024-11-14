@@ -6,6 +6,7 @@
                                              
 📧 Gmail: <a href="mailto:aloui.dalinda28@gmail.com" >aloui.dalinda28@gmail.com</a> <br>
 💼 LinkedIn: <a href="https://www.linkedin.com/in/dalinda-aloui/" >www.linkedin.com/in/dalinda-aloui</a>
+Portfolio:  <a href="https://dalinda28.github.io/portfolio_Dalinda/" >Portfolio</a>
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dalinda28&layout=compact)](https://github.com/dalinda28/github-readme-stats)
